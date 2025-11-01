@@ -1,0 +1,14 @@
+[2025-10-30 20:01:49] INFO: SUCCESSFUL registration for user **Tamer** from IP **127.0.0.1**
+[2025-10-30 20:02:07] WARNING: VALIDATION FAILURE/SUSPICIOUS INPUT from IP **127.0.0.1**. Errors: **password: Passwords must match**
+[2025-10-30 20:04:25] WARNING: VALIDATION FAILURE/SUSPICIOUS INPUT from IP **127.0.0.1**. Errors: **password: Passwords must match**
+[2025-10-30 20:04:43] WARNING: VALIDATION FAILURE/SUSPICIOUS INPUT from IP **127.0.0.1**. Errors: **password: Passwords must match**
+[2025-10-30 20:12:01] WARNING: VALIDATION FAILURE/SUSPICIOUS INPUT from IP **127.0.0.1**. Errors: **password: Passwords must match**
+[2025-10-30 20:12:31] WARNING: VALIDATION FAILURE/SUSPICIOUS INPUT from IP **127.0.0.1**. Errors: **password: Passwords must match**
+[2025-10-30 20:12:55] WARNING: VALIDATION FAILURE/SUSPICIOUS INPUT from IP **127.0.0.1**. Errors: **password: Passwords must match**
+[2025-10-30 20:13:01] INFO: SUCCESSFUL registration for user **Tamer__** from IP **127.0.0.1**
+[2025-10-30 20:13:10] WARNING: VALIDATION FAILURE/SUSPICIOUS INPUT from IP **127.0.0.1**. Errors: **username: Username Not Allowed**
+[2025-10-30 20:15:47] WARNING: VALIDATION FAILURE/SUSPICIOUS INPUT from IP **127.0.0.1**. Errors: **username: Username Not Allowed**
+[2025-10-30 20:15:56] WARNING: SUSPICIOUS INPUT (Sanitized) from IP **127.0.0.1** for user **admin__**. Original bio: **"Greetings! My name is Astro. I'm a full-time <u>planet collector</u> and part-time philosopher. You can call me spacey. My strongest belief is in the power of good coffee.  Here's my to-do list for this week:  <li>Make sure you're using this clean bio with the | safe filter in Jinja!</li>  <li>Fix that one persistent bug.</li>  My favorite planet is Mars. Check out NASA for real space info! I'm emphasizing this fact.  P.S. (This is a paragraph tag) This is a new thought. I tried to sneak another malicious tag in: <img src='x' onerror='alert("XSS attempt 2")'>. Let's see if bleach stripped it!**
+[2025-10-30 20:15:56] INFO: SUCCESSFUL registration for user **admin__** from IP **127.0.0.1**
+[2025-10-30 20:16:10] WARNING: SUSPICIOUS INPUT (Sanitized) from IP **127.0.0.1** for user **Tamer**. Original bio: **"Greetings! My name is Astro. I'm a full-time <u>planet collector</u> and part-time philosopher. You can call me spacey. My strongest belief is in the power of good coffee.  Here's my to-do list for this week:  <li>Make sure you're using this clean bio with the | safe filter in Jinja!</li>  <li>Fix that one persistent bug.</li>  My favorite planet is Mars. Check out NASA for real space info! I'm emphasizing this fact.  P.S. (This is a paragraph tag) This is a new thought. I tried to sneak another malicious tag in: <img src='x' onerror='alert("XSS attempt 2")'>. Let's see if bleach stripped it!**
+[2025-10-30 20:16:10] INFO: SUCCESSFUL registration for user **Tamer** from IP **127.0.0.1**
